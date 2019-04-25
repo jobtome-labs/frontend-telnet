@@ -6,7 +6,7 @@
 
 ### Description
 
-Nodejs socker project for hiring
+Nodejs socket project for hiring
 
 Check it online using your [telnet](https://it.wikipedia.org/wiki/Telnet) 
 
