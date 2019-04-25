@@ -1,0 +1,22 @@
+{
+    "extends": ["airbnb", "prettier"],
+    "plugins": ["prettier"],
+    "parser": "babel-eslint",
+    "rules": {
+      "no-restricted-syntax": ["off"],
+      "no-await-in-loop": ["off"],
+      "prettier/prettier": ["warn", {
+        "printWidth": 100,
+        "singleQuote": true,
+        "useTabs": false,
+        "tabWidth": 2
+      }, {
+        "usePrettierrc": false
+      }],
+      "max-len": ["warn", 200]
+    },
+    "env": {
+      "browser": true
+    }
+  }
+  

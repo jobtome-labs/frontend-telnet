@@ -1,0 +1,27 @@
+{
+  "name": "frontend-telnet",
+  "version": "1.0.0",
+  "description": "A frontend hiring telnet",
+  "main": "src/index.js",
+  "author": "Riccardo Canella <@thecreazy>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "version": "standard-version",
+    "lint:js": "eslint ./  -c .eslintrc --ext js --fix"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "nodemon": "^1.18.11",
+    "prettier": "^1.17.0",
+    "standard-version": "^5.0.2",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
