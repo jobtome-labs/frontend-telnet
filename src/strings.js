@@ -15,9 +15,9 @@ module.exports = {
     `,
   hiringMessages: [
     'Hi, thx to connect to our telnet! Nice to meet u!',
-    'We are looking for a senior frontend engineer to join our team',
-    'Our frontend team like ',
-    'Are u interested? go to weare.jobtome.com',
-    'Want to know how is written this code? checkout on: github'
+    'Our frontend team wants u to have a super-cool experience both on the web and here on the terminal',
+    'Would u like to join this awesome crew? We are looking for a Senior Frontend Engineer',
+    'See the open position on: https://weare.jobtome.com/',
+    'Want to know how this code is written? Check it out on: https://github.com/jobtome-labs/frontend-telnet.git'
   ]
 };

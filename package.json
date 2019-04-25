@@ -7,7 +7,7 @@
   "license": "ISC",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start": "node src/index.js",
+    "start": "PORT=8888 node src/index.js",
     "version": "standard-version",
     "lint:js": "eslint ./  -c .eslintrc --ext js --fix"
   },
@@ -23,5 +23,8 @@
     "prettier": "^1.17.0",
     "standard-version": "^5.0.2",
     "eslint-plugin-import": "^2.17.2"
+  },
+  "dependencies": {
+    "winston": "^3.2.1"
   }
 }
