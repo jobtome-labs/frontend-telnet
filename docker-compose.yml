@@ -1,0 +1,12 @@
+version: '3'
+services:
+
+  node:
+    build:
+      context: .
+      dockerfile: ./docker-files/node/Dockerfile
+    image: frontend/telnet
+    restart: always
+    ports: 
+      - 8888:8888
+      - 23:8888

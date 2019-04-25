@@ -1,0 +1,9 @@
+node_modules
+.git
+.gitignore
+CHANGELOG.md
+README.md
+.editorconfig
+.eslintrc
+docker-files
+docs
