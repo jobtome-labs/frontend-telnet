@@ -11,7 +11,7 @@ Nodejs socket project for hiring
 Check it online using your [telnet](https://it.wikipedia.org/wiki/Telnet) 
 
 ```sh
-telnet telnet.jobtome.com 8888
+telnet telnet.jobtome.com
 ```
 
 ### Dev stuff
