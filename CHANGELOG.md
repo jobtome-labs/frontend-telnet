@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.2](https://github.com/jobtome-labs/frontend-telnet/compare/v1.2.1...v1.2.2) (2019-05-02)
+
+
+### Bug Fixes
+
+* close connection after write all message ([244c5ed](https://github.com/jobtome-labs/frontend-telnet/commit/244c5ed))
+* no port in readme ([bc4e0e2](https://github.com/jobtome-labs/frontend-telnet/commit/bc4e0e2))
+
+
+
 ## [1.2.1](https://github.com/jobtome-labs/frontend-telnet/compare/v1.2.0...v1.2.1) (2019-04-25)
 
 
