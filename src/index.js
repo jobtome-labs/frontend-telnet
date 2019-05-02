@@ -48,6 +48,7 @@ async function newSocket(socket) {
   for (const message of hiringMessages) {
     await writeLine(message, socket);
   }
+  socket.end("\n<3\n");
   socket.on('end', () => {
     closeSocket(socket);
   });
