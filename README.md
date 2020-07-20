@@ -1,6 +1,6 @@
 # 📈 Frontend Telnet 📈 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
-![Jobtomelogo](https://mirror.jobtome.com/static/imgs/logodark.svg)
+![Jobtomelogo](https://mirror.jobtome.com/img/jobtome2.png)
 
 <img src="docs/terminal.gif" />
 
