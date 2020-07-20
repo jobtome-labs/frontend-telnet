@@ -22,7 +22,7 @@
     "eslint-plugin-react": "^7.12.4",
     "nodemon": "^2.0.4",
     "prettier": "^1.17.0",
-    "standard-version": "^8.0.2"
+    "standard-version": "^8.0.1"
   },
   "dependencies": {
     "winston": "^3.3.3"
